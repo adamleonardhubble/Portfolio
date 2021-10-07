@@ -391,14 +391,14 @@ p {
 /*--------------------------------------------------------------
 # Hero
 --------------------------------------------------------------*/
-#hero {
+#title {
   background: repeat scroll center center/cover;
   background-color: black;
   height: 40vh;
   width: 100%;
 }
 
-#hero .hero-content {
+#title .hero-content {
   height: 40vh;
   text-align: left;
   width: 100%;
